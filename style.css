@@ -1,0 +1,98 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.section1{
+    font-size: 30px;
+
+    
+}
+.half-width{
+    width: 50%;
+    position: relative;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 100px;
+    
+}
+h1{
+    margin: 10px;
+
+}
+.flex{
+    display:flex;
+    margin-bottom: 50px;
+    align-items: center;
+    
+    
+}
+.color-orange{
+    color:tomato;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    background-color: tomato;
+    padding: 5px 20px 5px 20px;
+    border-radius: 50px;
+}
+.bg-image{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.image{
+    height: 250px;
+}
+.center{
+    text-align: center;
+}
+.box-shadow{
+    box-shadow: 20px 20px 20px 20px grey;
+    border-radius: 20px;
+    margin: 50px 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 40%;
+}
+.subscriber{
+    display: flex;
+    box-shadow: 20px 20px 20px 20px rgb(236, 230, 230);
+    margin: 0px 200px 200px 200px;
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: 25px;
+    border-radius: 15px;
+
+
+}
+.align{
+    width: 30%;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0px 50px 0px;
+}
+.footer1{
+    color: tomato;
+    text-transform: uppercase;
+
+}
+.footer2{
+    color: grey;
+    text-transform: uppercase;
+}
+.recepe{
+    box-shadow: 20px 20px 20px 20px rgba(240, 237, 237, 0.945);
+    border-radius: 20px;
+    padding: 10px 20px 20px 10px;
+    margin-left: 60px;
+    margin-right: 250px;
+    padding-right: 10px;
+    text-align: justify;
+}
